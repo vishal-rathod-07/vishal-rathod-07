@@ -5,7 +5,7 @@ I'm a Full Stack Developer.
 - 🔭 Mostly working on JavaScript, React and PHP
 - 🌱 I'm currently in love with React
 - 👯 Connect with me for any freelancing project
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/rathodvishald/) or email me at [rvd31305@gmail.com](rvd31305@gmail.com)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/rathodvishald/) or email me at [rvd31305@gmail.com](mailto:rvd31305@gmail.com)
 
 If you found my work useful, consider buying me a coffee! I would really appreciate it.
 
