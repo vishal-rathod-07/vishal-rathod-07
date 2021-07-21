@@ -1,3 +1,9 @@
+<div align="center">
+    <a href="https://vishal-rathod-07.github.io">
+        <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/VR.gif" />
+    </a>
+</div>
+
 ## Hi there, I'm Vishal! 👋
 
 I'm a Full Stack Developer.
