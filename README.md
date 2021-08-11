@@ -8,7 +8,7 @@
 
 ### I'm a Developer.
 
-- 🔭 Mostly working on React.
+- 🔭 Passionate about coding.
 - 🌱 I'm currently working on React Course.
 - 👯 Connect with me for any freelancing project.
 - 🥅 2020 Goals: Be a MERN Stack Devloper.
