@@ -9,7 +9,7 @@
 ### I'm a Developer.
 
 - 🔭 Passionate about coding.
-- 🌱 I'm currently working on React Course.
+- 🌱 I'm currently working on React.
 - 👯 Connect with me for any freelancing project.
 - 🥅 2020 Goals: Be a MERN Stack Devloper.
 
