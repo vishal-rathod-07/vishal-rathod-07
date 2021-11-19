@@ -13,6 +13,13 @@
 - 👯 Connect with me for any freelancing project.
 - 🥅 2021 Goals: Be a MERN Stack Devloper.
 
+<p>
+![](https://visitor-badge.glitch.me/badge?page_id=vishal-rathod-07.vishal-rathod-07)
+    <a href="https://github.com/vishal-rathod-07/"><img src="https://img.shields.io/github/followers/vishal-rathod-07?style=social"/></a>
+    <a href="https://github.com/vishal-rathod-07?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://vishal-rathod-07.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/gmail.svg" />][mail]
