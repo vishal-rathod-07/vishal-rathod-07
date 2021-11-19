@@ -59,7 +59,6 @@
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-rathod-07&theme=tokyonight_duo&hide_border=false" alt="Vishal Rathod's readme streaks" />
 </p>
 
-<br/><br/>
 <hr>
 
 <div align="center">
