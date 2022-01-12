@@ -11,7 +11,7 @@
 - 🔭 Passionate about coding.
 - 🌱 I'm currently working on React.
 - 👯 Connect with me for any freelancing project.
-- 🥅 2021 Goals: Be a MERN Stack Devloper.
+- 🥅 2022 Goals: Be a MERN Stack Devloper.
 
 <p>
 
