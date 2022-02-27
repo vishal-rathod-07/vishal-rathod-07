@@ -4,7 +4,7 @@
     </a>
 </div>
 
-## Hi there <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/Hi.gif" height="30px" />, I'm Vishal!
+## Hi there <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/Hi.gif" height="30px" />, I'm Vishal.
 
 ### I'm a Developer.
 
