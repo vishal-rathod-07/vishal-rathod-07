@@ -6,7 +6,7 @@
 
 ## Hey there <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/Hi.gif" height="30px" />, I'm Vishal.
 
-### I'm a Developer.
+### I'm a Web Developer.
 
 - 🔭 Passionate about coding.
 - 🌱 I'm currently working on React.
