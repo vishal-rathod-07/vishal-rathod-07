@@ -1,10 +1,8 @@
-<div align="center">
-    <a href="https://vishal-rathod-07.github.io">
-        <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/VR.gif" />
-    </a>
-</div>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/Hi.gif" height="30px" />, I'm Vishal Rathod.</h1>
 
-## Hey there <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/Hi.gif" height="30px" />, I'm Vishal.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=15c534&width=380&height=45&lines=Welcome+To+My+Profile+🤗;;Nice+To+Meet+You+🤝&center=true"></a>
+</p>
 
 ### I'm a Web Developer.
 
