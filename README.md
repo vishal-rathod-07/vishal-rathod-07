@@ -1,3 +1,10 @@
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+[![An image of @vishalrathod07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalrathod07)](https://holopin.io/@vishalrathod07)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/vishal-rathod-07/vishal-rathod-07/master/images/Hi.gif" height="30px" />, I'm Vishal Rathod.</h1>
 
 <p align="center">
